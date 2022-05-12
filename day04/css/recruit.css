@@ -1,0 +1,17 @@
+body{background-color: #02233b;}
+#container{
+    margin: 0 auto;
+    width: 700px;
+    height: 700px;
+    padding: 20px;
+    background: #FFF; url('../images/mic.png') no-repeat
+}
+h1{
+    background-color: rgb(10, 49, 54);
+    color: aliceblue;
+    text-align: center;
+    padding: 20x;}
+    
+h2{text-align: center;
+font-style: ;}
+h3{color: rgb(165, 97, 42);}
